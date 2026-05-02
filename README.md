@@ -1,289 +1,74 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>الجودة والاعتمادات | العواد للتكييف</title>
-<meta name="description" content="شهادة ISO 9001:2015 ومعايير SMACNA الأمريكية - شركة العواد للتكييف ملتزمة بأعلى معايير الجودة العالمية.">
+# شركة العواد للتكييف - الموقع الرسمي
 
-<link rel="stylesheet" href="assets/style.css">
-</head>
+موقع شركة العواد للتكييف، إحدى شركات مجموعة عبداللطيف وعبدالرحمن العواد القابضة. خبراء التبريد منذ 25 عاماً.
 
-<body class="bg-white text-navy-900" data-page="quality">
+🌐 **الموقع المباشر:** [alawad-air.com](https://alawad-air.com)
 
-<div id="slot-loader"></div>
-<div id="slot-header"></div>
+## نظرة عامة
 
-<!-- ============================ PAGE HERO ============================ -->
-<section class="page-hero relative flex items-center pt-32 pb-20 overflow-hidden">
-  <div class="absolute -left-40 -top-40 w-[500px] h-[500px] opacity-[0.04] snowflake-decoration">
-    <svg viewBox="0 0 100 100" class="w-full h-full text-white">
-      <g transform="translate(50,50)" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round">
-        <line x1="0" y1="-45" x2="0" y2="45"/>
-        <line x1="-39" y1="-22" x2="39" y2="22"/>
-        <line x1="-39" y1="22" x2="39" y2="-22"/>
-      </g>
-    </svg>
-  </div>
-  <div class="relative z-10 max-w-7xl mx-auto px-6 w-full text-white">
-    <nav class="flex items-center gap-2 text-sm text-navy-200 mb-6">
-      <a href="index.html" class="hover:text-white">الرئيسية</a>
-      <span class="opacity-50">/</span>
-      <span class="text-white">الجودة والاعتمادات</span>
-    </nav>
-    <h1 class="font-display font-bold text-4xl md:text-5xl lg:text-6xl mb-4">الجودة والاعتمادات</h1>
-    <p class="text-navy-100/90 text-lg max-w-2xl">نلتزم بأعلى معايير الجودة العالمية، مع شهادات واعتمادات معتمدة دولياً</p>
-  </div>
-</section>
+موقع متعدد الصفحات بتصميم عربي RTL يعرض خدمات الشركة، مشاريعها، وشركاءها في حلول التكييف المتكاملة بالمملكة العربية السعودية.
 
-<!-- ============================ ISO ============================ -->
-<section id="iso" class="py-24 bg-white scroll-mt-32">
-  <div class="max-w-7xl mx-auto px-6">
-    <div class="grid lg:grid-cols-2 gap-16 items-center">
-      <div class="reveal">
-        <div class="section-label">ISO CERTIFIED</div>
-        <h2 class="font-display font-bold text-4xl text-navy-900 mb-6 leading-tight">شهادة ISO 9001:2015</h2>
-        <p class="text-gray-700 text-lg leading-relaxed mb-5">
-          حصلت شركة العواد للتكييف على شهادة الأيزو ISO 9001:2015 لنظام إدارة الجودة، الصادرة من UAF الأمريكية، وهي شهادة معترف بها دولياً تثبت التزامنا الكامل بمعايير الجودة العالمية.
-        </p>
-        <p class="text-gray-600 leading-relaxed mb-8">
-          نطاق الشهادة يشمل: <strong>التركيب والصيانة وإصلاح أنظمة التبريد والتكييف</strong>، مما يؤكد جودة جميع الخدمات التي نقدمها لعملائنا.
-        </p>
+## الصفحات
 
-        <div class="bg-gray-50 rounded-2xl p-6 space-y-4">
-          <div class="flex items-center justify-between border-b border-gray-200 pb-3">
-            <span class="text-sm text-gray-600">رقم الشهادة:</span>
-            <span class="font-bold text-navy-900">190824019617</span>
-          </div>
-          <div class="flex items-center justify-between border-b border-gray-200 pb-3">
-            <span class="text-sm text-gray-600">رقم الاعتماد:</span>
-            <span class="font-bold text-navy-900">51901390123</span>
-          </div>
-          <div class="flex items-center justify-between border-b border-gray-200 pb-3">
-            <span class="text-sm text-gray-600">تاريخ التسجيل:</span>
-            <span class="font-bold text-navy-900">19 أغسطس 2024</span>
-          </div>
-          <div class="flex items-center justify-between">
-            <span class="text-sm text-gray-600">تاريخ الانتهاء:</span>
-            <span class="font-bold text-ice">18 أغسطس 2027</span>
-          </div>
-        </div>
-      </div>
+- `index.html` - الصفحة الرئيسية
+- `about.html` - عن الشركة (الرؤية، الرسالة، القيم، فريق العمل)
+- `services.html` - الخدمات (دراسات، تكييف مركزي، VRF، مصنع مجاري الهواء، الصيانة)
+- `projects.html` - المشاريع المنجزة مع فلترة بالفئات
+- `quality.html` - شهادة ISO 9001:2015 والاعتمادات
+- `partners.html` - شركاء التصنيع والعملاء
+- `contact.html` - معلومات التواصل ونموذج الاستفسار
 
-      <div class="reveal">
-        <div class="bg-gradient-to-br from-navy-50 to-white border-2 border-navy-100 rounded-2xl p-8 shadow-xl">
-          <div class="text-center">
-            <div class="inline-block bg-white border-4 border-double border-ice px-6 py-2 rounded mb-6">
-              <div class="text-xs tracking-wider text-gray-500">CERTIFICATE OF</div>
-              <div class="font-display font-bold text-2xl text-navy-900">REGISTRATION</div>
-            </div>
-            <div class="text-xs text-gray-500 mb-4 italic">This is to certify that the Quality Management System of</div>
-            <div class="font-bold text-navy-900 text-sm mb-4 leading-relaxed">ABDULLATIF AND ABDULRAHMAN BIN MOHAMMAD<br/>BIN ABDULRAHMAN ALAWAD CO.</div>
-            <div class="text-xs text-gray-500 mb-6">7882 King Abdul Aziz Rd, Al Arid Dist.<br/>13337 RIYADH, Kingdom of Saudi Arabia</div>
-            <div class="text-xs text-gray-500 mb-2">is in accordance with the requirements of</div>
-            <div class="font-display font-bold text-3xl text-red-700 mb-2">ISO 9001:2015</div>
-            <div class="text-xs text-gray-500 mb-6">(Quality Management System)</div>
-            <div class="text-xs font-bold text-navy-900 mb-2">SCOPE</div>
-            <div class="text-xs text-gray-700 mb-6 leading-relaxed">Installation, Maintenance And Repair of<br/>Refrigeration And Air Conditioning Systems</div>
+## الميزات
 
-            <div class="flex justify-center gap-3 mb-4">
-              <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-white text-xs font-bold">UAF</div>
-              <div class="w-12 h-12 bg-yellow-500 rounded-full flex items-center justify-center text-white text-[8px] font-bold text-center leading-tight">ISO<br/>9001</div>
-              <div class="w-12 h-12 bg-blue-700 rounded-full flex items-center justify-center text-white text-xs font-bold">IAF</div>
-            </div>
+- ✅ تصميم متجاوب (Responsive) لجميع الأجهزة
+- ✅ دعم كامل للغة العربية (RTL)
+- ✅ شاشة تحميل احترافية بهوية الشركة
+- ✅ قائمة Mega Menu للخدمات
+- ✅ فلترة المشاريع حسب الفئة
+- ✅ نموذج تواصل تفاعلي
+- ✅ زر واتساب عائم
+- ✅ تأثيرات حركية سلسة (Scroll Animations)
 
-            <div class="text-[10px] text-gray-400 mt-4">UAF Address: 400 North Center Dr, STE 202, Norfolk, VA 23502, USA</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+## التقنيات المستخدمة
 
-<!-- ============================ CERTIFICATIONS ============================ -->
-<section id="certifications" class="py-24 bg-gray-50 scroll-mt-32">
-  <div class="max-w-7xl mx-auto px-6">
-    <div class="text-center max-w-3xl mx-auto mb-16 reveal">
-      <div class="section-label justify-center" style="display: inline-flex;">CERTIFICATIONS</div>
-      <h2 class="font-display font-bold text-4xl lg:text-5xl text-navy-900 mb-4">الاعتمادات والتصنيفات</h2>
-      <p class="text-gray-600">شهادات وتصنيفات حكومية تؤكد جودة وكفاءة أعمالنا</p>
-    </div>
+- HTML5
+- CSS3 (Custom + Tailwind CSS via CDN)
+- JavaScript (Vanilla)
+- Google Fonts (Cairo, Tajawal, Poppins)
 
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+## التشغيل المحلي
 
-      <div class="bg-white p-7 rounded-2xl border border-gray-100 card-hover hover:border-ice/30 reveal">
-        <div class="w-14 h-14 bg-ice/10 rounded-xl flex items-center justify-center mb-5">
-          <svg class="w-7 h-7 text-ice" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
-        </div>
-        <h3 class="font-display font-bold text-lg text-navy-900 mb-3">ISO 9001:2015</h3>
-        <p class="text-sm text-gray-600 leading-relaxed mb-4">شهادة نظام إدارة الجودة المعتمدة دولياً من UAF الأمريكية.</p>
-        <div class="text-xs text-gray-500 pt-3 border-t border-gray-100">سارية حتى 2027</div>
-      </div>
+افتح ملف `index.html` مباشرة في المتصفح، أو استخدم خادم محلي:
 
-      <div class="bg-white p-7 rounded-2xl border border-gray-100 card-hover hover:border-ice/30 reveal">
-        <div class="w-14 h-14 bg-ice/10 rounded-xl flex items-center justify-center mb-5">
-          <svg class="w-7 h-7 text-ice" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
-        </div>
-        <h3 class="font-display font-bold text-lg text-navy-900 mb-3">تصنيف مقدمي خدمات المدن</h3>
-        <p class="text-gray-600 text-sm leading-relaxed mb-4">شهادة معتمدة من وزارة الشؤون البلدية والقروية والإسكان - درجة اعتماد.</p>
-        <div class="text-xs text-gray-500 pt-3 border-t border-gray-100">قطاع التشييد والبناء</div>
-      </div>
+```bash
+# Python
+python -m http.server 8000
 
-      <div class="bg-white p-7 rounded-2xl border border-gray-100 card-hover hover:border-ice/30 reveal">
-        <div class="w-14 h-14 bg-ice/10 rounded-xl flex items-center justify-center mb-5">
-          <svg class="w-7 h-7 text-ice" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-        </div>
-        <h3 class="font-display font-bold text-lg text-navy-900 mb-3">الهيئة السعودية للمهندسين</h3>
-        <p class="text-gray-600 text-sm leading-relaxed mb-4">جميع مهندسينا وفنيينا مسجلون لدى الهيئة السعودية للمهندسين.</p>
-        <div class="text-xs text-gray-500 pt-3 border-t border-gray-100">SCE Members</div>
-      </div>
+# Node.js (live-server)
+npx live-server
+```
 
-      <div class="bg-white p-7 rounded-2xl border border-gray-100 card-hover hover:border-ice/30 reveal">
-        <div class="w-14 h-14 bg-ice/10 rounded-xl flex items-center justify-center mb-5">
-          <svg class="w-7 h-7 text-ice" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5"/></svg>
-        </div>
-        <h3 class="font-display font-bold text-lg text-navy-900 mb-3">معايير SMACNA</h3>
-        <p class="text-gray-600 text-sm leading-relaxed mb-4">مصنعنا الخاص لمجاري الهواء يتبع معايير الجمعية الوطنية الأمريكية.</p>
-        <div class="text-xs text-gray-500 pt-3 border-t border-gray-100">المرجع العالمي للدكت</div>
-      </div>
+## النشر على GitHub Pages
 
-      <div class="bg-white p-7 rounded-2xl border border-gray-100 card-hover hover:border-ice/30 reveal">
-        <div class="w-14 h-14 bg-ice/10 rounded-xl flex items-center justify-center mb-5">
-          <svg class="w-7 h-7 text-ice" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"/></svg>
-        </div>
-        <h3 class="font-display font-bold text-lg text-navy-900 mb-3">شهادة التوطين</h3>
-        <p class="text-gray-600 text-sm leading-relaxed mb-4">معدل التوطين 21% - فئة "أخضر متوسط" في برنامج نطاقات.</p>
-        <div class="text-xs text-gray-500 pt-3 border-t border-gray-100">رؤية 2030</div>
-      </div>
+1. ارفع المشروع لـ GitHub
+2. اذهب إلى Settings → Pages
+3. اختر `main` branch و `/ (root)` folder
+4. الموقع راح يكون متاح على `https://username.github.io/repo-name`
 
-      <div class="bg-white p-7 rounded-2xl border border-gray-100 card-hover hover:border-ice/30 reveal">
-        <div class="w-14 h-14 bg-ice/10 rounded-xl flex items-center justify-center mb-5">
-          <svg class="w-7 h-7 text-ice" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
-        </div>
-        <h3 class="font-display font-bold text-lg text-navy-900 mb-3">تسجيل ضريبة القيمة المضافة</h3>
-        <p class="text-gray-600 text-sm leading-relaxed mb-4">مسجلون في ضريبة القيمة المضافة وفق هيئة الزكاة والضريبة والجمارك.</p>
-        <div class="text-xs text-gray-500 pt-3 border-t border-gray-100">ZATCA Compliant</div>
-      </div>
+## معلومات التواصل
 
-    </div>
-  </div>
-</section>
+- **العنوان:** طريق الملك عبدالعزيز، حي العارض، الرياض 13337
+- **الهاتف المجاني:** 800 116 0106
+- **الجوال:** 0555 808 224
+- **البريد:** info@alawad-air.com
 
-<!-- ============================ STANDARDS ============================ -->
-<section id="standards" class="py-24 bg-white scroll-mt-32">
-  <div class="max-w-7xl mx-auto px-6">
-    <div class="grid lg:grid-cols-2 gap-16 items-center">
-      <div class="reveal">
-        <div class="section-label">QUALITY STANDARDS</div>
-        <h2 class="font-display font-bold text-4xl text-navy-900 mb-6 leading-tight">معايير الجودة في عملنا</h2>
-        <p class="text-gray-600 text-lg mb-8 leading-relaxed">
-          لدينا إدارة خاصة للجودة تشرف على كل تفاصيل المشاريع لضمان الالتزام الكامل بالمعايير المهنية المعتمدة عالمياً.
-        </p>
+## الاعتمادات
 
-        <div class="space-y-4">
-          <div class="flex items-start gap-4 bg-gray-50 p-5 rounded-xl">
-            <div class="w-10 h-10 bg-ice rounded-lg flex items-center justify-center flex-shrink-0">
-              <span class="text-white font-bold">1</span>
-            </div>
-            <div>
-              <h4 class="font-bold text-navy-900 mb-1">دراسة هندسية مسبقة</h4>
-              <p class="text-sm text-gray-600">دراسة شاملة لكل مشروع قبل التنفيذ لضمان الكفاءة المثلى.</p>
-            </div>
-          </div>
+- شهادة ISO 9001:2015 (UAF Certified)
+- تصنيف وزارة الشؤون البلدية - درجة اعتماد
+- عضوية الهيئة السعودية للمهندسين
+- معايير SMACNA الأمريكية لمجاري الهواء
 
-          <div class="flex items-start gap-4 bg-gray-50 p-5 rounded-xl">
-            <div class="w-10 h-10 bg-ice rounded-lg flex items-center justify-center flex-shrink-0">
-              <span class="text-white font-bold">2</span>
-            </div>
-            <div>
-              <h4 class="font-bold text-navy-900 mb-1">معدات وقطع غيار معتمدة</h4>
-              <p class="text-sm text-gray-600">استخدام معدات وقطع غيار من شركات عالمية موثوقة فقط.</p>
-            </div>
-          </div>
+---
 
-          <div class="flex items-start gap-4 bg-gray-50 p-5 rounded-xl">
-            <div class="w-10 h-10 bg-ice rounded-lg flex items-center justify-center flex-shrink-0">
-              <span class="text-white font-bold">3</span>
-            </div>
-            <div>
-              <h4 class="font-bold text-navy-900 mb-1">رقابة جودة في كل مرحلة</h4>
-              <p class="text-sm text-gray-600">فحص ومراجعة في كل مرحلة من مراحل المشروع للتأكد من الجودة.</p>
-            </div>
-          </div>
-
-          <div class="flex items-start gap-4 bg-gray-50 p-5 rounded-xl">
-            <div class="w-10 h-10 bg-ice rounded-lg flex items-center justify-center flex-shrink-0">
-              <span class="text-white font-bold">4</span>
-            </div>
-            <div>
-              <h4 class="font-bold text-navy-900 mb-1">اختبار وتشغيل تجريبي</h4>
-              <p class="text-sm text-gray-600">اختبار شامل قبل التسليم للتأكد من جاهزية الأنظمة.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="reveal">
-        <div class="rounded-2xl overflow-hidden shadow-2xl h-[600px]">
-          <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&q=80" alt="معايير الجودة" class="w-full h-full object-cover">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ============================ WARRANTY ============================ -->
-<section id="warranty" class="py-24 bg-gradient-to-b from-navy-900 to-navy-800 text-white relative overflow-hidden scroll-mt-32">
-  <div class="absolute -right-40 -bottom-40 w-[500px] h-[500px] opacity-[0.05] snowflake-decoration">
-    <svg viewBox="0 0 100 100" class="w-full h-full">
-      <g transform="translate(50,50)" stroke="white" stroke-width="2" fill="none">
-        <line x1="0" y1="-45" x2="0" y2="45"/>
-        <line x1="-39" y1="-22" x2="39" y2="22"/>
-        <line x1="-39" y1="22" x2="39" y2="-22"/>
-      </g>
-    </svg>
-  </div>
-
-  <div class="max-w-7xl mx-auto px-6 relative z-10">
-    <div class="text-center max-w-3xl mx-auto mb-16 reveal">
-      <div class="section-label justify-center" style="display: inline-flex; color: #88A3C5;">WARRANTY</div>
-      <h2 class="font-display font-bold text-4xl lg:text-5xl mb-4">الضمانات</h2>
-      <p class="text-navy-100/85">نقدم ضمانات شاملة على جميع أعمالنا لراحة بال عملائنا</p>
-    </div>
-
-    <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-      <div class="bg-white/5 glass border border-white/10 p-10 rounded-2xl reveal">
-        <div class="font-display font-bold text-6xl text-ice mb-2">1</div>
-        <div class="text-navy-200 text-sm mb-4">سنة كاملة</div>
-        <h3 class="font-display font-bold text-2xl mb-3">ضمان أعمال الشركة</h3>
-        <p class="text-navy-100/85 leading-relaxed">
-          ضمان شامل لمدة سنة كاملة على جميع أعمال التركيب والتشغيل، يشمل أي عيوب صناعية أو تنفيذية.
-        </p>
-      </div>
-
-      <div class="bg-white/5 glass border border-white/10 p-10 rounded-2xl reveal">
-        <div class="font-display font-bold text-6xl text-ice mb-2">5</div>
-        <div class="text-navy-200 text-sm mb-4">سنوات</div>
-        <h3 class="font-display font-bold text-2xl mb-3">ضمان الشركات المصنعة</h3>
-        <p class="text-navy-100/85 leading-relaxed">
-          ضمان من الشركات المصنعة على المعدات والأنظمة، يصل في بعض الحالات إلى 5 سنوات.
-        </p>
-      </div>
-    </div>
-
-    <div class="text-center mt-12 reveal">
-      <p class="text-navy-100/70 mb-6 max-w-2xl mx-auto">نلتزم بدعم عملائنا بعد البيع من خلال خدمات سرعة التجاوب وتوفر قطع الغيار والصيانة الشاملة.</p>
-      <a href="contact.html" class="inline-flex items-center gap-2 bg-white text-navy-900 px-8 py-4 rounded-lg font-medium hover:bg-navy-50 transition-colors">
-        احصل على عرض ضمان شامل
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 17l-5-5m0 0l5-5m-5 5h12"/></svg>
-      </a>
-    </div>
-  </div>
-</section>
-
-<div id="slot-footer"></div>
-
-<script src="assets/templates.js"></script>
-<script src="assets/script.js"></script>
-</body>
-</html>
+© 2026 شركة عبداللطيف وعبدالرحمن محمد بن عبدالرحمن العواد القابضة. جميع الحقوق محفوظة.
